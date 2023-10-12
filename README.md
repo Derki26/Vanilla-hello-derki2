@@ -1,1 +1,1 @@
-# Vanilla-hello-derki2 https://github.com/Derki26/Vanilla-hello-derki2
+https://derki26.github.io/Vanilla-hello-derki2/
